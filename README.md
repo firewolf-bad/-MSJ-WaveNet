@@ -21,20 +21,3 @@ The dataset used in this project originates from the following sources:
 
 ---
 
-## 🧠 Model and Methodology
-
-The core algorithm is based on <method name or concept, e.g., “a 3D U-Net combined with diffusion modeling”>,  
-designed to <explain your goal, e.g., “improve the accuracy and robustness of seismic data interpolation”>.
-
----
-
-## 🧪 Experimental Environment
-
-- Python >= 3.8  
-- PyTorch >= 2.0  
-- Other dependencies listed in `requirements.txt`
-
-Install dependencies via:
-
-```bash
-pip install -r requirements.txt
